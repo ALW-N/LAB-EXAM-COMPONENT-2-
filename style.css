@@ -1,0 +1,71 @@
+.bodyEdit {
+    text-align: center;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+.but1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    left: 45%;
+    bottom: 10%;
+}
+
+.feed-head{
+    padding-left: 995px ;
+    padding-top: 10px;
+}
+
+.feedback-comment{
+    text-align: left;
+    padding-left: 1000px ;
+    padding-top: 10px;
+}
+
+.feedback-mail{
+    padding-left: 1000px;
+    padding-top: 10px;
+}
+
+.feedback-name{
+    padding-left: 1000px ;
+    padding-top: 50px ;
+}
+
+.submitButton{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    left: 75%;
+    bottom: 50%;
+}
+
+#comment{
+    width: 90%;
+    height: 50%;
+}
+
+#fetch{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    left: 40%;
+    top: 10%;
+}
+#list{
+    padding-top: 50px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+
+    position: absolute;
+    left: 35%;
+    top: 20%;
+
+
+}
+
